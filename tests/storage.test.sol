@@ -6,7 +6,7 @@ import "remix_tests.sol"; // this import is automatically injected by Remix.
 import "hardhat/console.sol";
 import "../contracts/1_Storage.sol";
 
-contract StorageTest {
+contract TokenTest {
     Storage storageToTest;
     
     function beforeAll () public {
